@@ -1,0 +1,6 @@
+---
+title: "p8105_hw5_yh3824"
+author: "ruby"
+date: "2025-10-30"
+output: github_document
+---
